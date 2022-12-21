@@ -84,3 +84,7 @@ The following example is in JSON format for illustrative purposes.
   }        
 ]
 ```
+
+## Submitting your exercise
+
+When you have something you're happy with, please respond with the URL of your repo, and we'll take a look. While it’s intended to be possible to do very well in only a couple of hours, time pressure is not intended to be a factor, so feel free to take a week to find time to work on it, or longer if your schedule requires.
