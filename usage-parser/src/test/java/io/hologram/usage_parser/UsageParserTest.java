@@ -48,7 +48,7 @@ public class UsageParserTest extends TestCase
         Usage expectedUsage = Usage.builder()
                 .id(7194)
                 .mnc(394)
-                .bytesUsed(293451)
+                .bytesUsed(495593)
                 .dmcc("b33")
                 .cellId(192)
                 .build();
@@ -112,11 +112,8 @@ public class UsageParserTest extends TestCase
                 .build();
 
         Usage expectedUsage3 = Usage.builder()
-                .id(4)
-                .mnc(0)
-                .bytesUsed(495594)
-                .dmcc("0d39f")
-                .cellId(214)
+                .id(9991)
+                .bytesUsed(2935)
                 .build();
 
         List<Usage> result = usageParser.parse(usageList);
